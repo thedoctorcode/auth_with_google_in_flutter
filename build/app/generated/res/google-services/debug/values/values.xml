@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">156804513626-udalijttgedtaoe7in39jon6m6serram.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">156804513626</string>
+    <string name="google_api_key" translatable="false">AIzaSyCdda6MoAevFt_NP-hp7X4Qrwr9VyGrM6E</string>
+    <string name="google_app_id" translatable="false">1:156804513626:android:081db6dd3458f71e0bfd63</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCdda6MoAevFt_NP-hp7X4Qrwr9VyGrM6E</string>
+    <string name="google_storage_bucket" translatable="false">telegram-app-b0711.appspot.com</string>
+    <string name="project_id" translatable="false">telegram-app-b0711</string>
+</resources>

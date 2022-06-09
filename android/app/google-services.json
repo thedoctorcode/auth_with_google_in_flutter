@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "156804513626",
+    "project_id": "telegram-app-b0711",
+    "storage_bucket": "telegram-app-b0711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156804513626:android:081db6dd3458f71e0bfd63",
+        "android_client_info": {
+          "package_name": "it.detchapp.telegram_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156804513626-f8u3r466ipj7p0papr3j5pkck45n7g0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.detchapp.telegram_app",
+            "certificate_hash": "b734dbf60188f7b221556c121f0e2f754bc2afbc"
+          }
+        },
+        {
+          "client_id": "156804513626-udalijttgedtaoe7in39jon6m6serram.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdda6MoAevFt_NP-hp7X4Qrwr9VyGrM6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156804513626-udalijttgedtaoe7in39jon6m6serram.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156804513626-h8bi448g8geii0ec9er5goibahvgt62k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "it.detchapp.telegramApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

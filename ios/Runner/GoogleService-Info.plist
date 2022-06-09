@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>156804513626-h8bi448g8geii0ec9er5goibahvgt62k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.156804513626-h8bi448g8geii0ec9er5goibahvgt62k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>156804513626-f8u3r466ipj7p0papr3j5pkck45n7g0b.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFY9LG7L6GO0jmSJZUXVvzlXKqValFq44</string>
+	<key>GCM_SENDER_ID</key>
+	<string>156804513626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>it.detchapp.telegramApp</string>
+	<key>PROJECT_ID</key>
+	<string>telegram-app-b0711</string>
+	<key>STORAGE_BUCKET</key>
+	<string>telegram-app-b0711.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:156804513626:ios:6ea0507a7a3af6210bfd63</string>
+</dict>
+</plist>
